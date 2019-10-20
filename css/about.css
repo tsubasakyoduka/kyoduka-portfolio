@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+body {
+	        font-size: 16px;
+	        font-family: 'Noto Sans Japanese', sans-serif, 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', Osaka, Tahoma, Verdana, Arial, Verdana, sans-serif;
+		      background-image: url(./img/yozora.jpg);
+		      background-size: cover;
+		      }
+		
+    .navbar {
+		        opacity: 0.5;
+		        }
+		
+		.container {
+		  background-image: url(./img/mymy.png);
+		  background-size: cover;
+		  width: 1400px;
+		  height: 600px;
+		  margin: auto;
+		  padding: 0;
+		}
+		
+		.navbar-toggler {
+		  background-color: #576c82;
+		}

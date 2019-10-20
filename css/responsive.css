@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+@media (max-width:900px) {
+    .container {
+        padding: 0;
+        background-image: url(../img/works.jpg);
+	    
+    }
+}
